@@ -23,8 +23,8 @@ criado apenas para submissão no SkyLab"
 
 ## Resultado
 
-<img alt="Resultado Desafio 05" src="https://github.com/antonioaads/bootcamp-desafio02-backend/blob/master/.github/resultado.PNG" />
+<img alt="Resultado Desafio 05" src="https://github.com/antonioaads/Learning/blob/master/bootcamp/nivel2/desafio-backend/.github/resultado.png" />
 
 ### Detalhes da Correção
 
-<img alt="Detalhes Correção Desafio 05" src="https://github.com/antonioaads/bootcamp-desafio02-backendblob/master/.github/detalhes-solucao.PNG" />
+<img alt="Detalhes Correção Desafio 05" src="https://github.com/antonioaads/Learning/blob/master/bootcamp/nivel2/desafio-backend/.github/detalhes.png" />
